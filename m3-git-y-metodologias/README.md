@@ -18,7 +18,7 @@
 `git config user.name`
 
 `git config user.email "email@usuadio.de"`
-`git config user.email --global "email@usuadio.de"`
+`git config user.email --global "email@usuario.de"`
 
 `git config user.email`
 
@@ -45,6 +45,6 @@
 
 ### Para bajar cambios
 
-`git pull origin master`
+`git pull origin master` -solo baja los cambios
 
-`git clone http://dire-del-repo`
+`git clone http://dire-del-repo` -solo si se quiere bajar todo el repositorio
